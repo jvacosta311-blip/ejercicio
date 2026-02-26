@@ -1,0 +1,27 @@
+h1{
+  color:#A62357;
+  font-family:arial;
+  text-align:center;
+  font-size:50px; 
+  background-color:green
+}
+
+body{
+  background-color:pink;
+  margin: 70px
+}
+
+img{
+  height: 130px;
+}
+
+h2.uno{
+  color: blue;
+  font-family:calibri;
+  background-color:gray
+}
+
+.dos{
+  color:red;
+  background-color:yellow
+}
